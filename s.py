@@ -1,4 +1,3 @@
-# run this in any directory
 # add -v for verbose
 # get Pillow (fork of PIL) from
 # pip before running -->pip
